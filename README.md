@@ -63,17 +63,12 @@ I am an Artificial Intelligence and Machine Learning graduate who builds product
 <a href="https://github.com/dhruvsingh895/Portfolio"><img src="https://img.shields.io/badge/01%20Portfolio-312e81?style=for-the-badge&logo=next.js&logoColor=22d3ee" alt="Portfolio repository"></a>
 <a href="https://github.com/dhruvsingh895/1Fi"><img src="https://img.shields.io/badge/02%201Fi-312e81?style=for-the-badge&logo=typescript&logoColor=22d3ee" alt="1Fi repository"></a>
 <a href="https://github.com/dhruvsingh895/Ethara-SAPSM"><img src="https://img.shields.io/badge/03%20Ethara--SAPSM-312e81?style=for-the-badge&logo=fastapi&logoColor=22d3ee" alt="Ethara-SAPSM repository"></a>
-
-<br>
-
 <a href="https://github.com/dhruvsingh895/trafficvision"><img src="https://img.shields.io/badge/04%20TrafficVision-312e81?style=for-the-badge&logo=python&logoColor=22d3ee" alt="TrafficVision repository"></a>
-<a href="https://github.com/dhruvsingh895/inventory-system"><img src="https://img.shields.io/badge/05%20Inventory%20System-312e81?style=for-the-badge&logo=postgresql&logoColor=22d3ee" alt="Inventory System repository"></a>
-<a href="https://github.com/dhruvsingh895/taskflow"><img src="https://img.shields.io/badge/06%20TaskFlow-312e81?style=for-the-badge&logo=react&logoColor=22d3ee" alt="TaskFlow repository"></a>
 
 </div>
 
-<details open>
-<summary><b>Project details</b></summary>
+<details>
+<summary><b>Project details and additional work</b></summary>
 
 | Project | Pitch | Links |
 | :--- | :--- | :--- |
@@ -81,8 +76,17 @@ I am an Artificial Intelligence and Machine Learning graduate who builds product
 | **1Fi** | Mobile-first fintech marketplace with product variants and an EMI purchase flow. `Next.js` `Prisma` `PostgreSQL` | [Repo](https://github.com/dhruvsingh895/1Fi) · [Live](https://1-fi-mu.vercel.app) |
 | **Ethara-SAPSM** | Seat allocation and project mapping for teams, availability, utilization, and new joiners. `Next.js` `FastAPI` `PostgreSQL` | [Repo](https://github.com/dhruvsingh895/Ethara-SAPSM) · [Live](https://ethara-sapsm.vercel.app) · [API](https://ethara-sapsm.onrender.com/docs) |
 | **TrafficVision** | Traffic video analysis with detection, tracking, line-crossing counts, annotated output, and analytics. `Python` `YOLO` `ByteTrack` | [Repo](https://github.com/dhruvsingh895/trafficvision) |
+| **RideFlow** | Dockerized ride-hailing platform with live driver locations, ride matching, and WebSocket tracking. `React` `FastAPI` `PostgreSQL` `Redis` | [Repo](https://github.com/dhruvsingh895/RideFlow) · [Frontend](https://frontend-goq1.onrender.com) |
+
+<details>
+<summary>Older / supporting projects</summary>
+
+| Project | Pitch | Links |
+| :--- | :--- | :--- |
 | **Inventory System** | Product, customer, order, and inventory workflows with a React interface and FastAPI backend. `React` `FastAPI` `Docker` | [Repo](https://github.com/dhruvsingh895/inventory-system) · [Live](https://inventory-system-ashy-nu.vercel.app) |
 | **TaskFlow** | Responsive task management with priorities, due dates, filtering, and authentication. `React` `Node.js` `MongoDB` | [Repo](https://github.com/dhruvsingh895/taskflow) · [Live](https://taskflow-sagar.vercel.app) |
+
+</details>
 
 </details>
 
