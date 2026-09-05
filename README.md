@@ -14,6 +14,7 @@
 
 <a href="https://github.com/dhruvsingh895"><img src="https://img.shields.io/badge/GitHub-dhruvsingh895-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub"></a>
 <a href="https://portfolio-iota-brown-94.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/dhruv-singh-06857831a/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn"></a>
 <a href="https://leetcode.com/u/dhruvsingh895/"><img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=22d3ee" alt="LeetCode"></a>
 <a href="https://github.com/dhruvsingh895?tab=repositories"><img src="https://img.shields.io/badge/13%20public%20repositories-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Public repositories"></a>
 
@@ -142,7 +143,7 @@ Ethara-SAPSM   █████████████████░░░  ope
 
 ![Gradient divider](https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:6366f1,100:22d3ee&height=3&section=header)
 
-**[GitHub](https://github.com/dhruvsingh895)** · **[Portfolio](https://portfolio-iota-brown-94.vercel.app)** · **[LeetCode](https://leetcode.com/u/dhruvsingh895/)**
+**[GitHub](https://github.com/dhruvsingh895)** · **[LinkedIn](https://www.linkedin.com/in/dhruv-singh-06857831a/)** · **[Portfolio](https://portfolio-iota-brown-94.vercel.app)** · **[LeetCode](https://leetcode.com/u/dhruvsingh895/)**
 
 <br>
 
