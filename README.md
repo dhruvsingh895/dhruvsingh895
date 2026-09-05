@@ -58,22 +58,30 @@ I build production-style applications across machine learning, deep learning, co
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/dhruvsingh895/Ethara-SAPSM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvsingh895&repo=Ethara-SAPSM&theme=dark&bg_color=0f172a&title_color=38BDF8&text_color=cbd5e1&icon_color=38BDF8&hide_border=true" alt="Seat Allocation and Project Mapping System repository card"></a>
-<br><sub>Seat allocation, project mapping, availability, and utilization workflows.</sub>
+<strong>01 · Seat Allocation &amp; Project Mapping</strong><br>
+<a href="https://github.com/dhruvsingh895/Ethara-SAPSM">View repository →</a><br>
+<sub>Seat allocation, project mapping, availability, and utilization workflows.</sub><br>
+<sub><code>Next.js</code> <code>FastAPI</code> <code>PostgreSQL</code></sub>
 </td>
 <td width="50%">
-<a href="https://github.com/dhruvsingh895/trafficvision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvsingh895&repo=trafficvision&theme=dark&bg_color=0f172a&title_color=38BDF8&text_color=cbd5e1&icon_color=38BDF8&hide_border=true" alt="Vehicle Detection and Counting System repository card"></a>
-<br><sub>Computer-vision detection, tracking, line crossing, and traffic counts.</sub>
+<strong>02 · Vehicle Detection &amp; Counting</strong><br>
+<a href="https://github.com/dhruvsingh895/trafficvision">View repository →</a><br>
+<sub>Computer-vision detection, tracking, line crossing, and traffic counts.</sub><br>
+<sub><code>Python</code> <code>YOLO</code> <code>ByteTrack</code></sub>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/dhruvsingh895/taskflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvsingh895&repo=taskflow&theme=dark&bg_color=0f172a&title_color=38BDF8&text_color=cbd5e1&icon_color=38BDF8&hide_border=true" alt="Taskflow repository card"></a>
-<br><sub>Focused task management with priorities, due dates, filters, and auth.</sub>
+<strong>03 · Taskflow</strong><br>
+<a href="https://github.com/dhruvsingh895/taskflow">View repository →</a><br>
+<sub>Focused task management with priorities, due dates, filters, and auth.</sub><br>
+<sub><code>React</code> <code>Node.js</code> <code>MongoDB</code></sub>
 </td>
 <td width="50%">
-<a href="https://github.com/dhruvsingh895/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvsingh895&repo=Portfolio&theme=dark&bg_color=0f172a&title_color=38BDF8&text_color=cbd5e1&icon_color=38BDF8&hide_border=true" alt="Portfolio repository card"></a>
-<br><sub>Interactive portfolio with 3D storytelling and an AI concierge.</sub>
+<strong>04 · Portfolio</strong><br>
+<a href="https://github.com/dhruvsingh895/Portfolio">View repository →</a><br>
+<sub>Interactive portfolio with 3D storytelling and an AI concierge.</sub><br>
+<sub><code>Next.js</code> <code>Three.js</code> <code>GSAP</code></sub>
 </td>
 </tr>
 </table>
@@ -88,9 +96,7 @@ I build production-style applications across machine learning, deep learning, co
 
 ## A little more me
 
-<div align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=default" alt="Random programming joke">
-</div>
+> I like useful software, readable interfaces, and the moment a messy workflow finally feels simple.
 
 ## Setup
 
@@ -98,7 +104,7 @@ I build production-style applications across machine learning, deep learning, co
 2. Allow workflows to write repository contents under **Settings → Actions → General → Workflow permissions**.
 3. Run **Generate contribution snake** once from the **Actions** tab to publish the `output` branch.
 
-> Mobile note: the stats and repository cards are responsive, but wide tables may require horizontal scrolling on smaller screens.
+> Mobile note: the project table is responsive, but narrow screens may wrap its two columns.
 
 <div align="center">
 
