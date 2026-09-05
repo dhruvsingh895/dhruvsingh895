@@ -12,6 +12,7 @@
 
 <a href="https://github.com/dhruvsingh895"><img src="https://img.shields.io/badge/GitHub-dhruvsingh895-111827?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="https://portfolio-iota-brown-94.vercel.app"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://leetcode.com/u/dhruvsingh895/"><img src="https://img.shields.io/badge/LeetCode-dhruvsingh895-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 <a href="https://github.com/dhruvsingh895?tab=repositories"><img src="https://img.shields.io/badge/13%20public%20repositories-312e81?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories"/></a>
 
 </div>
@@ -142,6 +143,6 @@ Ethara-SAPSM   █████████████████░░░  ope
 
 <a href="https://portfolio-iota-brown-94.vercel.app"><img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=70&section=footer&text=Let's%20build%20something%20useful&fontSize=22&fontColor=ffffff" alt="Let's build something useful" width="100%"/></a>
 
-**[GitHub](https://github.com/dhruvsingh895)** · **[Portfolio](https://portfolio-iota-brown-94.vercel.app)**
+**[GitHub](https://github.com/dhruvsingh895)** · **[LeetCode](https://leetcode.com/u/dhruvsingh895/)** · **[Portfolio](https://portfolio-iota-brown-94.vercel.app)**
 
 </div>
