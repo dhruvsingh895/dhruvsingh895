@@ -31,7 +31,7 @@
 
 ## About me
 
-I am a TypeScript and Python developer who enjoys turning complex workflows into calm, useful products. I build across polished interfaces, dependable APIs, data-heavy tools, and applied computer vision. My public work includes a fintech marketplace, an employee seat-allocation platform, inventory and task systems, and traffic video analysis. I care about product clarity, maintainable boundaries, and shipping behavior that survives beyond the happy path.
+I am an Artificial Intelligence and Machine Learning graduate who builds production-style applications across machine learning, deep learning, computer vision, and full-stack development. During my Infosys Springboard AI internship, I worked with real datasets across EDA, NLP, Generative AI, prompt engineering, and data analytics. My projects include a role-based seat and project allocation platform for approximately 5,000 employees, a real-time vehicle detection pipeline reaching 85% detection accuracy, and full-stack products built with React, Node.js, FastAPI, SQL, and Docker. I also bring a strong problem-solving foundation, with 750+ LeetCode problems solved and a focus on secure APIs, measurable performance, and maintainable systems.
 
 ## Toolkit
 
