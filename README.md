@@ -47,6 +47,20 @@ I care about interfaces that feel obvious, APIs that are dependable, and impleme
 
 </div>
 
+## Live signal
+
+<div align="center">
+
+<a href="https://github.com/dhruvsingh895">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsingh895&theme=tokyonight&hide_border=true&background=0f172a&ring=22d3ee&fire=f59e0b&currStreakLabel=67e8f9" alt="GitHub contribution streak" width="72%"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=A5B4FC&center=true&vCenter=true&width=820&lines=ship+the+interface;measure+the+workflow;make+the+edge+case+feel+intentional;repeat" alt="Animated engineering loop"/>
+
+</div>
+
 ## Selected work
 
 <table>
