@@ -1,140 +1,130 @@
 <div align="center">
 
-<a href="https://github.com/dhruvsingh895">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=220&section=header&text=Dhruv%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20developer%20%7C%20Product%20builder%20%7C%20Computer%20vision&descAlignY=61&descSize=18" alt="Dhruv Singh banner" width="100%"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:312e81,100:06b6d4&height=230&section=header&text=Dhruv%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=TypeScript%20%2B%20Python%20%7C%20Product%20engineering%20%7C%20Computer%20vision&descAlignY=62&descSize=17">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:312e81,100:0891b2&height=230&section=header&text=Dhruv%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=TypeScript%20%2B%20Python%20%7C%20Product%20engineering%20%7C%20Computer%20vision&descAlignY=62&descSize=17">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:312e81,100:06b6d4&height=230&section=header&text=Dhruv%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=TypeScript%20%2B%20Python%20%7C%20Product%20engineering%20%7C%20Computer%20vision&descAlignY=62&descSize=17" alt="Dhruv Singh animated gradient banner" width="100%">
+</picture>
 
 <a href="https://github.com/dhruvsingh895">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+useful+products+with+TypeScript+%26+Python;Designing+clear+interfaces+for+complex+workflows;Turning+computer+vision+ideas+into+working+systems" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+useful+products+with+TypeScript+%26+Python;Designing+clear+interfaces+for+complex+workflows;Turning+computer+vision+ideas+into+working+systems;Making+the+edge+case+feel+intentional" alt="Animated focus areas">
 </a>
 
-<br/>
+<br>
 
-<a href="https://github.com/dhruvsingh895"><img src="https://img.shields.io/badge/GitHub-dhruvsingh895-111827?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://portfolio-iota-brown-94.vercel.app"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://leetcode.com/u/dhruvsingh895/"><img src="https://img.shields.io/badge/LeetCode-dhruvsingh895-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-<a href="https://github.com/dhruvsingh895?tab=repositories"><img src="https://img.shields.io/badge/13%20public%20repositories-312e81?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories"/></a>
+<a href="https://github.com/dhruvsingh895"><img src="https://img.shields.io/badge/GitHub-dhruvsingh895-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub"></a>
+<a href="https://portfolio-iota-brown-94.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio"></a>
+<a href="https://leetcode.com/u/dhruvsingh895/"><img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=22d3ee" alt="LeetCode"></a>
+<a href="https://github.com/dhruvsingh895?tab=repositories"><img src="https://img.shields.io/badge/13%20public%20repositories-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Public repositories"></a>
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=dhruvsingh895&label=PROFILE%20VIEWS&color=22d3ee&style=flat-square" alt="Profile views">
 
 </div>
 
-<br/>
+<div align="center">
+
+![Gradient divider](https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:6366f1,100:22d3ee&height=3&section=header)
+
+</div>
 
 ## About me
 
-I build thoughtful web products, data-rich internal tools, and computer-vision experiences. My work moves between **TypeScript and Python**, from mobile-first fintech flows and operational dashboards to traffic video analysis.
-
-I care about interfaces that feel obvious, APIs that are dependable, and implementation details that hold up beyond the happy path.
-
-<div align="center">
-
-```text
-   product thinking  ────┐
-   frontend craft   ──────┼──>  useful software
-   backend systems  ──────┤
-   applied vision   ──────┘
-```
-
-</div>
+I am a TypeScript and Python developer who enjoys turning complex workflows into calm, useful products. I build across polished interfaces, dependable APIs, data-heavy tools, and applied computer vision. My public work includes a fintech marketplace, an employee seat-allocation platform, inventory and task systems, and traffic video analysis. I care about product clarity, maintainable boundaries, and shipping behavior that survives beyond the happy path.
 
 ## Toolkit
 
+**Frontend**
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=22d3ee) ![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=22d3ee) ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=next.js&logoColor=22d3ee)
+
+**Backend**
+![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=22d3ee) ![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=22d3ee)
+
+**Data / DB**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=22d3ee) ![Prisma](https://img.shields.io/badge/Prisma-0f172a?style=flat-square&logo=prisma&logoColor=22d3ee) ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=22d3ee)
+
+**DevOps**
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=22d3ee)
+
+**Applied ML / CV**
+![OpenCV](https://img.shields.io/badge/OpenCV-0f172a?style=flat-square&logo=opencv&logoColor=22d3ee) ![YOLO](https://img.shields.io/badge/YOLO-0f172a?style=flat-square&logoColor=22d3ee) ![ByteTrack](https://img.shields.io/badge/ByteTrack-0f172a?style=flat-square&logoColor=22d3ee)
+
 <div align="center">
 
-| Build | Data & platforms | Applied systems |
-| :--- | :--- | :--- |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=next.js) ![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss) | ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi) ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs) ![Express](https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express) | ![OpenCV](https://img.shields.io/badge/OpenCV-0f172a?style=flat-square&logo=opencv) ![YOLO](https://img.shields.io/badge/YOLO-0f172a?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-0f172a?style=flat-square&logo=streamlit) |
-| ![REST](https://img.shields.io/badge/REST%20APIs-0f172a?style=flat-square) ![HTML](https://img.shields.io/badge/HTML%2FCSS-0f172a?style=flat-square&logo=html5) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql) ![Prisma](https://img.shields.io/badge/Prisma-0f172a?style=flat-square&logo=prisma) ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb) ![SQLite](https://img.shields.io/badge/SQLite-0f172a?style=flat-square&logo=sqlite) | ![ByteTrack](https://img.shields.io/badge/ByteTrack-0f172a?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker) |
+![Gradient divider](https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:6366f1,100:22d3ee&height=3&section=header)
 
 </div>
 
-## Live signal
+## Featured work
 
 <div align="center">
+
+<a href="https://github.com/dhruvsingh895/Portfolio"><img src="https://img.shields.io/badge/01%20Portfolio-312e81?style=for-the-badge&logo=next.js&logoColor=22d3ee" alt="Portfolio repository"></a>
+<a href="https://github.com/dhruvsingh895/1Fi"><img src="https://img.shields.io/badge/02%201Fi-312e81?style=for-the-badge&logo=typescript&logoColor=22d3ee" alt="1Fi repository"></a>
+<a href="https://github.com/dhruvsingh895/Ethara-SAPSM"><img src="https://img.shields.io/badge/03%20Ethara--SAPSM-312e81?style=for-the-badge&logo=fastapi&logoColor=22d3ee" alt="Ethara-SAPSM repository"></a>
+
+<br>
+
+<a href="https://github.com/dhruvsingh895/trafficvision"><img src="https://img.shields.io/badge/04%20TrafficVision-312e81?style=for-the-badge&logo=python&logoColor=22d3ee" alt="TrafficVision repository"></a>
+<a href="https://github.com/dhruvsingh895/inventory-system"><img src="https://img.shields.io/badge/05%20Inventory%20System-312e81?style=for-the-badge&logo=postgresql&logoColor=22d3ee" alt="Inventory System repository"></a>
+<a href="https://github.com/dhruvsingh895/taskflow"><img src="https://img.shields.io/badge/06%20TaskFlow-312e81?style=for-the-badge&logo=react&logoColor=22d3ee" alt="TaskFlow repository"></a>
+
+</div>
+
+<details open>
+<summary><b>Project details</b></summary>
+
+| Project | Pitch | Links |
+| :--- | :--- | :--- |
+| **Portfolio** | Immersive portfolio with 3D storytelling, live GitHub data, and an AI concierge. `Next.js` `Three.js` `GSAP` | [Repo](https://github.com/dhruvsingh895/Portfolio) · [Live](https://portfolio-iota-brown-94.vercel.app) |
+| **1Fi** | Mobile-first fintech marketplace with product variants and an EMI purchase flow. `Next.js` `Prisma` `PostgreSQL` | [Repo](https://github.com/dhruvsingh895/1Fi) · [Live](https://1-fi-mu.vercel.app) |
+| **Ethara-SAPSM** | Seat allocation and project mapping for teams, availability, utilization, and new joiners. `Next.js` `FastAPI` `PostgreSQL` | [Repo](https://github.com/dhruvsingh895/Ethara-SAPSM) · [Live](https://ethara-sapsm.vercel.app) · [API](https://ethara-sapsm.onrender.com/docs) |
+| **TrafficVision** | Traffic video analysis with detection, tracking, line-crossing counts, annotated output, and analytics. `Python` `YOLO` `ByteTrack` | [Repo](https://github.com/dhruvsingh895/trafficvision) |
+| **Inventory System** | Product, customer, order, and inventory workflows with a React interface and FastAPI backend. `React` `FastAPI` `Docker` | [Repo](https://github.com/dhruvsingh895/inventory-system) · [Live](https://inventory-system-ashy-nu.vercel.app) |
+| **TaskFlow** | Responsive task management with priorities, due dates, filtering, and authentication. `React` `Node.js` `MongoDB` | [Repo](https://github.com/dhruvsingh895/taskflow) · [Live](https://taskflow-sagar.vercel.app) |
+
+</details>
+
+## Activity cockpit
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dhruvsingh895&show_icons=true&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=6366f1&text_color=e2e8f0&rank_icon=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dhruvsingh895&show_icons=true&hide_border=true&bg_color=f8fafc&title_color=312e81&icon_color=0891b2&text_color=0f172a&rank_icon=github">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvsingh895&show_icons=true&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=6366f1&text_color=e2e8f0&rank_icon=github" alt="GitHub overall stats" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsingh895&layout=compact&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsingh895&layout=compact&hide_border=true&bg_color=f8fafc&title_color=312e81&text_color=0f172a">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsingh895&layout=compact&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0" alt="Top languages" width="49%">
+</picture>
+
+<br>
 
 <a href="https://github.com/dhruvsingh895">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsingh895&theme=tokyonight&hide_border=true&background=0f172a&ring=22d3ee&fire=f59e0b&currStreakLabel=67e8f9" alt="GitHub contribution streak" width="72%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsingh895&theme=tokyonight&hide_border=true&background=0f172a&ring=22d3ee&fire=6366f1&currStreakLabel=67e8f9" alt="GitHub contribution streak" width="70%">
 </a>
 
-<br/><br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=A5B4FC&center=true&vCenter=true&width=820&lines=ship+the+interface;measure+the+workflow;make+the+edge+case+feel+intentional;repeat" alt="Animated engineering loop"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvsingh895&bg_color=0f172a&color=67e8f9&line=22d3ee&point=6366f1&area=true&hide_border=true" alt="GitHub activity graph" width="96%">
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dhruvsingh895&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies" width="90%">
 
 </div>
 
-## Selected work
+## Contribution animation
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### [01 · Portfolio](https://github.com/dhruvsingh895/Portfolio)
+<img src="https://raw.githubusercontent.com/dhruvsingh895/dhruvsingh895/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%">
 
-**[Live experience ↗](https://portfolio-iota-brown-94.vercel.app)**
+</div>
 
-An immersive Next.js portfolio combining a 3D experience, project storytelling, live GitHub data, and an AI concierge.
-
-`Next.js` `TypeScript` `Three.js` `GSAP`
-
-</td>
-<td width="50%" valign="top">
-
-### [02 · 1Fi](https://github.com/dhruvsingh895/1Fi)
-
-**[Live marketplace ↗](https://1-fi-mu.vercel.app)**
-
-A mobile-first fintech product experience with marketplace catalog, product variants, and an EMI purchase flow.
-
-`Next.js` `React` `Prisma` `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [03 · Ethara-SAPSM](https://github.com/dhruvsingh895/Ethara-SAPSM)
-
-**[Live frontend ↗](https://ethara-sapsm.vercel.app)** · **[API docs ↗](https://ethara-sapsm.onrender.com/docs)**
-
-Seat allocation and project mapping for employees, teams, availability, utilization, and new joiners.
-
-`Next.js` `FastAPI` `PostgreSQL` `JWT`
-
-</td>
-<td width="50%" valign="top">
-
-### [04 · TrafficVision](https://github.com/dhruvsingh895/trafficvision)
-
-Traffic video analysis with vehicle detection, tracking, line-crossing counts, annotated output, and analytics.
-
-`Python` `React` `YOLO` `ByteTrack`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [05 · Inventory System](https://github.com/dhruvsingh895/inventory-system)
-
-**[Live frontend ↗](https://inventory-system-ashy-nu.vercel.app)**
-
-Full-stack product, customer, order, and inventory workflows with a React interface and FastAPI backend.
-
-`React` `FastAPI` `PostgreSQL` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### [06 · TaskFlow](https://github.com/dhruvsingh895/taskflow)
-
-**[Live app ↗](https://taskflow-sagar.vercel.app)**
-
-A responsive task-management product with priorities, due dates, filtering, authentication, and team-ready workflows.
-
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-</tr>
-</table>
+> The snake image is generated daily by [`.github/workflows/snake.yml`](.github/workflows/snake.yml). Enable GitHub Actions and allow the workflow to write repository contents.
 
 ## Now building
 
@@ -144,19 +134,18 @@ TrafficVision  ██████████████████░░  com
 Ethara-SAPSM   █████████████████░░░  operational tooling
 ```
 
-## Principles I build by
+## How I work
 
-> **Make the main workflow obvious.**<br/>
-> Keep boundaries clear between UI, APIs, data, and processing.<br/>
-> Treat loading, empty, error, and recovery states as product features.<br/>
-> Prefer measurable behavior over impressive-sounding claims.
+> Make the main workflow obvious. Keep boundaries clear. Treat loading, empty, error, and recovery states as product features. Prefer measurable behavior over impressive-sounding claims.
 
 <div align="center">
 
-<br/>
+![Gradient divider](https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:6366f1,100:22d3ee&height=3&section=header)
 
-<a href="https://portfolio-iota-brown-94.vercel.app"><img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=70&section=footer&text=Let's%20build%20something%20useful&fontSize=22&fontColor=ffffff" alt="Let's build something useful" width="100%"/></a>
+**[GitHub](https://github.com/dhruvsingh895)** · **[Portfolio](https://portfolio-iota-brown-94.vercel.app)** · **[LeetCode](https://leetcode.com/u/dhruvsingh895/)**
 
-**[GitHub](https://github.com/dhruvsingh895)** · **[LeetCode](https://leetcode.com/u/dhruvsingh895/)** · **[Portfolio](https://portfolio-iota-brown-94.vercel.app)**
+<br>
+
+<a href="https://portfolio-iota-brown-94.vercel.app"><img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=72&section=footer&text=Let's%20build%20something%20useful&fontSize=22&fontColor=ffffff" alt="Let's build something useful" width="100%"></a>
 
 </div>
