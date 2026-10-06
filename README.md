@@ -1,65 +1,72 @@
-<p align="center">
-  <img src="assets/profile-header.svg" alt="Dhruv Singh — AI/ML and Full-Stack Engineer. A copper DS sculpture orbiting above a futuristic platform." width="100%" />
-</p>
+<a href="https://portfolio-iota-brown-94.vercel.app/universe.html"><img src="assets/observatory-header.png" width="100%" alt="Dhruv Singh — The Living Observatory. Enter an interactive universe of contributions, languages, and software." /></a>
 
-<p align="center">
-  <a href="https://portfolio-iota-brown-94.vercel.app"><strong>ENTER MY PORTFOLIO ↗</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dhruv-singh-06857831a/">LINKEDIN</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/dhruvsingh895/">LEETCODE</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="mailto:dhruvsingh050908@gmail.com">LET'S TALK</a>
-</p>
+**[ENTER THE LIVING OBSERVATORY ↗](https://portfolio-iota-brown-94.vercel.app/universe.html)** &nbsp; / &nbsp; [Portfolio](https://portfolio-iota-brown-94.vercel.app) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/dhruv-singh-06857831a/) &nbsp; / &nbsp; [Email](mailto:dhruvsingh050908@gmail.com)
 
 <br />
 
-### 01 / The mind behind the work
+## 01 — A spark with somewhere to go.
 
-I'm **Dhruv**, an AI/ML graduate based in **Kanpur, India**. I build intelligent systems and full-stack products—connecting computer vision, reliable APIs, and interfaces that make complex things feel simple.
+I'm **Dhruv Singh**, an AI/ML graduate and full-stack developer in **Kanpur, India**. I build systems that make difficult problems clearer: recognizing vehicles, connecting people to workspaces, and turning a task list into progress.
 
-I like ambitious ideas, thoughtful details, and software that earns its place in someone's day.
-
-<p><img src="assets/signal.svg" alt="800+ LeetCode problems, 150+ GeeksforGeeks problems, and 8.07 B.Tech CGPA" width="100%" /></p>
+**800+ LeetCode problems** · **150+ GeeksforGeeks problems** · **8.07 B.Tech CGPA**
 
 <br />
 
-### 02 / Explore the build log
+## 02 — Small acts. A city of light.
 
-Four projects. Four different problems. One drive to make things work beautifully.
+My contribution calendar becomes a 3D skyline in the observatory. Every tower corresponds to a dated record, with a table available alongside the scene.
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/dhruvsingh895/Ethara-SAPSM"><img src="assets/project-systems.svg" width="100%" alt="Seat Allocation System — Next.js, FastAPI, PostgreSQL. Explore the repository." /></a></td>
-<td width="50%"><a href="https://github.com/dhruvsingh895/Vehicle_detection"><img src="assets/project-vision.svg" width="100%" alt="Traffic Vision — Python, OpenCV, YOLOv8. Explore the repository." /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/dhruvsingh895/taskflow"><img src="assets/project-flow.svg" width="100%" alt="Taskflow — React, Node.js, MongoDB. Explore the repository." /></a></td>
-<td width="50%"><a href="https://github.com/dhruvsingh895/Portfolio"><img src="assets/project-portfolio.svg" width="100%" alt="Interactive Portfolio — React, Three.js, Vite. Explore the repository." /></a></td>
-</tr>
-</table>
+**101 contributions** across the calendar window · **2-day longest streak** · **July 2026: 86 contributions**
 
-**Also building → [PGConnect](https://github.com/dhruvsingh895/pgconnect)** · PG and hostel management, owner and tenant dashboards, and rent payments.
+[Explore the contribution city ↗](https://portfolio-iota-brown-94.vercel.app/universe.html#light)
+
+<sub>Snapshot: 06 October 2026. Calendar window: 06 October 2025–06 October 2026. GitHub visibility rules apply.</sub>
 
 <br />
 
-### 03 / My engineering toolkit
+## 03 — Different tools. Shared ambition.
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Interfaces** | TypeScript · JavaScript · React · Next.js · Tailwind CSS |
-| **Systems** | Python · FastAPI · Node.js · Express · REST APIs |
-| **Intelligence** | OpenCV · YOLOv8 · Machine learning · Deep learning |
-| **Foundation** | PostgreSQL · MongoDB · Docker · Git |
+**Interfaces** &nbsp; TypeScript / JavaScript / React / Next.js / Tailwind CSS<br />
+**Systems** &nbsp; Python / FastAPI / Node.js / Express / REST APIs<br />
+**Intelligence** &nbsp; OpenCV / YOLOv8 / Machine learning / Deep learning<br />
+**Foundation** &nbsp; PostgreSQL / MongoDB / Docker / Git
 
-<br />
-
-### 04 / Outside the editor
-
-Always learning. Often solving a problem. Sometimes thinking three moves ahead on the **[chessboard ↗](https://www.chess.com/member/anonymous_895x)**.
+The current public-code snapshot spans **7 languages** across non-fork repositories. In the [language galaxy](https://portfolio-iota-brown-94.vercel.app/universe.html#languages), each cluster filters the projects that use it.
 
 <br />
 
-<a href="mailto:dhruvsingh050908@gmail.com"><img src="assets/contact.svg" alt="The next great idea starts with a conversation. Email Dhruv Singh." width="100%" /></a>
+## 04 — Three worlds. Built to matter.
 
-<p align="center"><sub>Built with curiosity. Refined with care.</sub></p>
+### [Seat Allocation System ↗](https://github.com/dhruvsingh895/Ethara-SAPSM)
+People, workspaces, and projects in one role-based platform—with analytics and AI-assisted queries.<br />
+`Next.js` `FastAPI` `PostgreSQL`
+
+### [Traffic Vision ↗](https://github.com/dhruvsingh895/Vehicle_detection)
+Vehicle detection and counting with computer vision, plus a dashboard for exploring traffic analytics.<br />
+`Python` `OpenCV` `YOLOv8`
+
+### [Taskflow ↗](https://github.com/dhruvsingh895/taskflow)
+A shared workspace for tasks and progress, backed by authenticated APIs.<br />
+`React` `Node.js` `MongoDB`
+
+[Visit the repository planets ↗](https://portfolio-iota-brown-94.vercel.app/universe.html#worlds) · Also building [PGConnect](https://github.com/dhruvsingh895/pgconnect)
+
+<br />
+
+## 05 — Read between the commits.
+
+The observatory turns **27 sampled public events** into an activity tunnel. Saturday and 00:00 UTC were the busiest weekday and hour **within that sample**. Those observations aren't claims about my complete working history.
+
+[Inspect the signals and their limits ↗](https://portfolio-iota-brown-94.vercel.app/universe.html#signals)
+
+<br />
+
+## 06 — What shall we build next?
+
+Bring a difficult problem, a bold idea, or a little curiosity.
+
+**[Start a conversation ↗](mailto:dhruvsingh050908@gmail.com)** &nbsp; / &nbsp; [Challenge me at chess](https://www.chess.com/member/anonymous_895x)
+
+---
+
+<sub>The interactive observatory includes a guided tour, keyboard command palette, quality settings, two themes, and a reduced-motion view. Its downloadable HTML runs offline; the artwork above is captured from the actual experience.</sub>
