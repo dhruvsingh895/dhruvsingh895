@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" fill="none">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="350" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#101317"/><stop offset=".65" stop-color="#18191b"/><stop offset="1" stop-color="#34241d"/></linearGradient>
+  <linearGradient id="line" x1="800" y1="0" x2="1200" y2="350" gradientUnits="userSpaceOnUse"><stop stop-color="#f1ad78"/><stop offset="1" stop-color="#805039"/></linearGradient>
+ </defs>
+ <rect x="1" y="1" width="1198" height="348" rx="22" fill="url(#bg)" stroke="#383534"/>
+ <g stroke="url(#line)" opacity=".16"><circle cx="1120" cy="180" r="285"/><circle cx="1120" cy="180" r="225"/><circle cx="1120" cy="180" r="165"/></g>
+ <path d="M58 54H76L91 69V85L76 100H58V54ZM130 54H108L99 63V71L124 83V91L115 100H94" stroke="#F0B487" stroke-width="5"/>
+ <text x="155" y="81" fill="#B9B2AE" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">ENGINEERING WITH INTENTION</text>
+ <text x="54" y="194" fill="#F4F1EE" font-family="Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Dhruv Singh<tspan fill="#F0B487">.</tspan></text>
+ <text x="58" y="240" fill="#C6C4C3" font-family="Arial, sans-serif" font-size="23">AI / ML Engineer &amp; Full-Stack Developer</text>
+ <path d="M58 287H94" stroke="#F0B487" stroke-width="3"/>
+ <text x="108" y="293" fill="#A7A5A4" font-family="Arial, sans-serif" font-size="16">Intelligent systems. Thoughtful interfaces. Useful software.</text>
+ <g transform="translate(931 123)" stroke="#F0B487" stroke-width="10" opacity=".85"><path d="M0 0H30L56 26V56L30 82H0V0ZM124 0H86L70 16V30L114 50V65L97 82H61"/></g>
+</svg>
