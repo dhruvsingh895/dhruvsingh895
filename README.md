@@ -1,75 +1,65 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Dhruv Singh — AI/ML Engineer and Full-Stack Developer. Intelligent systems, thoughtful interfaces, useful software." width="100%" />
+  <img src="assets/profile-header.svg" alt="Dhruv Singh — AI/ML and Full-Stack Engineer. A copper DS sculpture orbiting above a futuristic platform." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://portfolio-iota-brown-94.vercel.app"><strong>Explore my portfolio ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dhruv-singh-06857831a/">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/dhruvsingh895/">LeetCode</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:dhruvsingh050908@gmail.com">Email</a>
+  <a href="https://portfolio-iota-brown-94.vercel.app"><strong>ENTER MY PORTFOLIO ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dhruv-singh-06857831a/">LINKEDIN</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/dhruvsingh895/">LEETCODE</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:dhruvsingh050908@gmail.com">LET'S TALK</a>
 </p>
 
 <br />
 
-### A little about me
+### 01 / The mind behind the work
 
-I'm an AI/ML graduate based in **Kanpur, India**, building across computer vision and full-stack development. I enjoy turning complicated workflows into software that feels clear and useful—from understanding traffic to organizing the places people work.
+I'm **Dhruv**, an AI/ML graduate based in **Kanpur, India**. I build intelligent systems and full-stack products—connecting computer vision, reliable APIs, and interfaces that make complex things feel simple.
 
-**800+** LeetCode problems solved &nbsp; / &nbsp; **150+** GeeksforGeeks problems &nbsp; / &nbsp; **8.07** B.Tech CGPA
+I like ambitious ideas, thoughtful details, and software that earns its place in someone's day.
+
+<p><img src="assets/signal.svg" alt="800+ LeetCode problems, 150+ GeeksforGeeks problems, and 8.07 B.Tech CGPA" width="100%" /></p>
 
 <br />
 
-### Selected work
+### 02 / Explore the build log
+
+Four projects. Four different problems. One drive to make things work beautifully.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/dhruvsingh895/Ethara-SAPSM">Seat Allocation System ↗</a></h3>
-      <p>Connecting people, workspaces, and projects through role-based workflows and AI-assisted queries.</p>
-      <p><code>Next.js</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/dhruvsingh895/Vehicle_detection">Traffic Vision ↗</a></h3>
-      <p>Vehicle detection and counting with computer vision, plus a dashboard for exploring traffic analytics.</p>
-      <p><code>Python</code> <code>OpenCV</code> <code>YOLOv8</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/dhruvsingh895/taskflow">Taskflow ↗</a></h3>
-      <p>A shared workspace for managing tasks and keeping progress visible, backed by authenticated APIs.</p>
-      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/dhruvsingh895/Portfolio">Interactive Portfolio ↗</a></h3>
-      <p>A cinematic 3D portfolio with two themes, interactive project worlds, and a branching Story Mode.</p>
-      <p><code>React</code> <code>Three.js</code> <code>Vite</code></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%"><a href="https://github.com/dhruvsingh895/Ethara-SAPSM"><img src="assets/project-systems.svg" width="100%" alt="Seat Allocation System — Next.js, FastAPI, PostgreSQL. Explore the repository." /></a></td>
+<td width="50%"><a href="https://github.com/dhruvsingh895/Vehicle_detection"><img src="assets/project-vision.svg" width="100%" alt="Traffic Vision — Python, OpenCV, YOLOv8. Explore the repository." /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/dhruvsingh895/taskflow"><img src="assets/project-flow.svg" width="100%" alt="Taskflow — React, Node.js, MongoDB. Explore the repository." /></a></td>
+<td width="50%"><a href="https://github.com/dhruvsingh895/Portfolio"><img src="assets/project-portfolio.svg" width="100%" alt="Interactive Portfolio — React, Three.js, Vite. Explore the repository." /></a></td>
+</tr>
 </table>
 
-Also building **[PGConnect](https://github.com/dhruvsingh895/pgconnect)** — PG and hostel management with owner and tenant dashboards and rent payments.
+**Also building → [PGConnect](https://github.com/dhruvsingh895/pgconnect)** · PG and hostel management, owner and tenant dashboards, and rent payments.
 
 <br />
 
-### Tools I work with
+### 03 / My engineering toolkit
 
-| Focus | Toolkit |
+| Layer | Technologies |
 | :--- | :--- |
-| Interfaces | TypeScript · JavaScript · React · Next.js · Tailwind CSS |
-| APIs & data | Python · FastAPI · Node.js · Express · PostgreSQL · MongoDB |
-| Applied intelligence | OpenCV · YOLOv8 · Machine learning · Deep learning |
-| Development | Git · Docker · REST APIs |
+| **Interfaces** | TypeScript · JavaScript · React · Next.js · Tailwind CSS |
+| **Systems** | Python · FastAPI · Node.js · Express · REST APIs |
+| **Intelligence** | OpenCV · YOLOv8 · Machine learning · Deep learning |
+| **Foundation** | PostgreSQL · MongoDB · Docker · Git |
 
 <br />
 
-### Beyond the code
+### 04 / Outside the editor
 
-I enjoy solving problems, learning how systems work, and a good game of **[chess](https://www.chess.com/member/anonymous_895x)**.
+Always learning. Often solving a problem. Sometimes thinking three moves ahead on the **[chessboard ↗](https://www.chess.com/member/anonymous_895x)**.
 
----
+<br />
 
-**Have something in mind? [Let's build it together ↗](mailto:dhruvsingh050908@gmail.com)**
+<a href="mailto:dhruvsingh050908@gmail.com"><img src="assets/contact.svg" alt="The next great idea starts with a conversation. Email Dhruv Singh." width="100%" /></a>
+
+<p align="center"><sub>Built with curiosity. Refined with care.</sub></p>
